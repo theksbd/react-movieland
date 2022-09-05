@@ -27,7 +27,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    searchMovies("thor");
+    searchMovies("Thor");
   }, []);
 
   const handleChangeSearchBar = (event) => {
