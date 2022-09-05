@@ -4,16 +4,7 @@ import "./App.css";
 import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 
-const API_URL = "http://www.omdbapi.com/?apikey=e78b4829";
-
-// const movie = {
-//   Title: "Thor: Ragnarok",
-//   Year: "2017",
-//   imdbID: "tt3501632",
-//   Type: "movie",
-//   Poster:
-//     "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",
-// };
+const API_URL = "https://www.omdbapi.com/?apikey=e78b4829";
 
 const App = () => {
   const [movies, setMovies] = useState([]);
