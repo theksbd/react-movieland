@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Live site
+# Live Site
 [React Movieland](https://theksbd.github.io/react-movieland/)
 
 ## Available Scripts
